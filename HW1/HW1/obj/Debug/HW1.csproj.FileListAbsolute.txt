@@ -1,0 +1,6 @@
+c:\users\folus\documents\visual studio 2015\Projects\HW1\HW1\bin\Debug\HW1.exe.config
+c:\Users\folus\Documents\Visual Studio 2015\Projects\HW1\HW1\bin\Debug\HW1.exe
+c:\Users\folus\Documents\Visual Studio 2015\Projects\HW1\HW1\bin\Debug\HW1.pdb
+c:\Users\folus\Documents\Visual Studio 2015\Projects\HW1\HW1\obj\Debug\HW1.csprojResolveAssemblyReference.cache
+c:\Users\folus\Documents\Visual Studio 2015\Projects\HW1\HW1\obj\Debug\HW1.exe
+c:\Users\folus\Documents\Visual Studio 2015\Projects\HW1\HW1\obj\Debug\HW1.pdb
